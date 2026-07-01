@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Environment files
+.env
+.env.local
+
+# Generated outputs
+outputs/
+temp/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
